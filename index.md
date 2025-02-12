@@ -4,7 +4,7 @@
 
 git commands:
 
-git init
-git status
+git init - initializes git
+git status = 
 git add
 git commit
